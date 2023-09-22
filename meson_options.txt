@@ -1,0 +1,1 @@
+option('gst_plugins_good_rtp', type : 'string', value : '../gstreamer/subprojects/gst-plugins-good/gst/rtp', description : 'A path to rtp folder of gst-plugins-good')
